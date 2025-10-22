@@ -36,7 +36,7 @@ const Navbar = () => {
             className="w-10 h-10 object-contain"
           />
           <h2 className="text-lg md:text-xl lg:text-2xl font-bold text-violet-700">
-            Hero App Store
+            HERO.IO
           </h2>
         </Link>
       </div>
